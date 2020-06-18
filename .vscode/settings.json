@@ -1,8 +1,0 @@
-{
-	"projectManager.git.baseFolders": [
-		git remote user.name origin "Vertalian"
-		git remote user.email "Vertalian@yandex.ru"
-
-		git remote set-url origin https://github.com/Vertalian/vscode.git
-	]
-}
